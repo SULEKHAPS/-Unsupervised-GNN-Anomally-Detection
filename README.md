@@ -1,1 +1,1 @@
-# GNN-Anomally-Detection
+#  Unsupervised-GNN-Anomally-Detection
