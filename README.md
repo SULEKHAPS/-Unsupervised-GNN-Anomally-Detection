@@ -1,6 +1,8 @@
 #  Unsupervised-GNN-Anomally-Detection
 ## Introduction
   In today’s data-driven world, machine learning (ML) has emerged as a transformative tool for solving complex real-world problems across industries. This project leverages Google Colab, a cloud-based platform for collaborative coding and machine learning, to develop, train, and evaluate a practical ML model. Whether the focus is on classification, regression, clustering, or another ML task, the project aims to demonstrate end-to-end workflows—from data preprocessing and exploratory analysis to model deployment. By utilizing Python libraries like TensorFlow, PyTorch, or scikit-learn, this project highlights how accessible and powerful modern ML tools can be when combined with cloud computing resources. The problem addressed here could involve tasks such as predicting outcomes, recognizing patterns, or optimizing processes, depending on the dataset and model selected.
+
+  
 ## Objectives
 1.Data Preprocessing and Exploration: Clean, normalize, and visualize the dataset to uncover patterns and prepare it for model training.
 2.Model Development: Design and implement a machine learning model (e.g., neural network, decision tree, or SVM) tailored to the problem’s requirements.
